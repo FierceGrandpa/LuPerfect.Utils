@@ -4,6 +4,16 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Version>1.0.0</Version>
+    <Authors>LuPerfect</Authors>
+    <Company>LuPerfect</Company>
+    <Description>Library with c# utils.</Description>
+    <Copyright></Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/FierceGrandpa/LuPerfect.Utils</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>c#, utils, utilities</PackageTags>
   </PropertyGroup>
 
 </Project>
